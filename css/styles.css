@@ -252,7 +252,7 @@ nav styles
     color: var(--clr-primary);
     z-index: 3;
     cursor: pointer;
-    animation: navBtnBounce 3s ease infinite;
+    
 }
 
 .nav-bar {
